@@ -2,6 +2,10 @@
 
 I'm currently taking courses at Linköping University and use this account for both school and personal projects.
 
+- I am intressted in problem solving and AI/machine learning (which is the field of my masters degree). 
+- My favorite programming languages are: C++ and Python. (Yes, they are very different but that nice!)
+
+
 <!--
 **Dadopur/Dadopur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
