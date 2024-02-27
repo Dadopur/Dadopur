@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there!
+
+I'm currently taking courses at Linköping University and use this account for both school and personal projects.
 
 <!--
 **Dadopur/Dadopur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
