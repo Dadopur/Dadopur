@@ -1,8 +1,8 @@
 ### Hello there!
 
-I'm currently taking courses at Linköping University and use this account for mostly personal projects.
+I'm Daniel, working as a software engineer at Dyno Robotics in Linköping.
 
-- I am intressted in problem solving and AI/machine learning, which is the field of my masters degree. 
+- I am intressted in problem solving, robotics, and AI/machine learning. 
 - My favorite programming languages are: C++ and Python. (Yes, they are very different but that's nice!)
 
 Here are some of useful links!
